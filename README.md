@@ -23,13 +23,13 @@ npm -v
 
 5. Process of Program Execution:
     1. Clone the repository: git clone https://github.com/YinYinPhyo/TimeServerPractice.git
-    2. Navigate to the project folder: cd <your-project-folder>
-    3. Run the time server: node <filename.js> <port-number> 
+    2. Navigate to the project folder: cd your-project-folder
+    3. Run the time server: node filename.js port-number 
         Example: node time_server.js 3000
     4. Access the endpoints:
-        http://localhost:<port>/api/parsetime?iso=<time>
-        http://localhost:<port>/api/unixtime?iso=<time>
-        http://localhost:<port>/api/currenttime
+        http://localhost:port/api/parsetime?iso=<time>
+        http://localhost:port/api/unixtime?iso=<time>
+        http://localhost:port/api/currenttime
 
 6. Execution Screenshots:
 Include screenshots that show the outputs of the server.
