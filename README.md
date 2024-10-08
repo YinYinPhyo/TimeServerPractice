@@ -39,3 +39,5 @@ Example screenshots:
 ![api/unixtime response.](./images/image_unixtime.png)
 ![api/currenttime response.](./images/image_currenttime.png)
 
+7. Documentation
+- Presentation file Time Server Presentation.pdf
