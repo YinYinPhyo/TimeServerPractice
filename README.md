@@ -40,4 +40,6 @@ Example screenshots:
 ![api/currenttime response.](./images/image_currenttime.png)
 
 7. Documentation
-- Presentation file Time Server Presentation.pdf
+- Presentation file Time 
+[Time Server Presentation.pdf](https://github.com/user-attachments/files/17288038/Time.Server.Presentation.pdf)
+
